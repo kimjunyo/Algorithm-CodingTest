@@ -1,4 +1,4 @@
-#Greedy Algorithm
+# Greedy Algorithm
 
 ---
 - 정의
